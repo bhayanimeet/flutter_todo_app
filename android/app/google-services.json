@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505981676393",
+    "project_id": "todo-app-16d3f",
+    "storage_bucket": "todo-app-16d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505981676393:android:9f5044a24f52de1ddbebf8",
+        "android_client_info": {
+          "package_name": "com.meet45.flutter_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505981676393-pdmpfmhf2tc10lna70ngvtlc9ifujccl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet45.flutter_todo_app",
+            "certificate_hash": "d8d2434a9cb266fb47f5bfc315933d3cef289637"
+          }
+        },
+        {
+          "client_id": "505981676393-aphqmqe9jiblb5uarlpfmpfr3mojiqga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmX2aJjuZoolpVc4OgwotMtPO8HWBZ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505981676393-aphqmqe9jiblb5uarlpfmpfr3mojiqga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
